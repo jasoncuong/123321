@@ -1,0 +1,11 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.footer > p {
+    color: #ccc;
+    margin-bottom: 10px;
+}

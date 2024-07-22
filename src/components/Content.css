@@ -1,0 +1,25 @@
+.container {
+    margin: 0 20px;
+}
+
+.box {
+    background-color: #fff;
+    width: 240px;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 10px;
+    margin: 16px;
+    font-size: 1.76rem;
+    float: left;
+}
+
+.title {
+    font-weight: bold;
+    margin-bottom: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.text {
+    color: #777;
+}
